@@ -1,7 +1,6 @@
-Elevating Code-mixed Text Handling through Auditory Information of Words
+# Elevating Code-mixed Text Handling through Auditory Information of Words
 
-This repository contains the code for the EMNLP 2023 paper:
-Elevating Code-mixed Text Handling through Auditory Information of Words
+This repository contains the code for the EMNLP 2023 paper: Elevating Code-mixed Text Handling through Auditory Information of Words
 
 Link to paper: https://aclanthology.org/2023.emnlp-main.987/
 
